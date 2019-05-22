@@ -11,7 +11,7 @@
     <!--Bootstrap Core Stylesheet-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   </head>
-  <body class="d-flex flex-column h-100">
+  <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark"> <a class="navbar-brand"
 
         href="#">Kensington Alterations &amp; Dressmaking</a> <button class="navbar-toggler"
@@ -30,28 +30,26 @@
     </nav>
     <main class="flex-shrink-0" role="main">
       <div class="container-fluid">
-        <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col-md-4">
-            <h2>
-              heading
-            </h2>
+        <div class="row no-gutters overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static"> hello1 </div>
+          <div class="col-auto d-none d-lg-block"> <img class="" width=auto height=auto src="images/img.png"> </div>
           </div>
-          <div class="col-md-8">
-            <h2>
-              heading
-            </h2>
+          <div class="row no-gutters overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+           <div class="col p-4 d-flex flex-column position-static"> hello2 </div>
+            <div class="col md-6"> hello 2</div>
           </div>
-          
+          <div class="row no-gutters overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
+            <div class="col-md-6"> hello3 </div>
+            <div class="col md-6"> hello 3</div>
+          </div>
         </div>
       </div>
     </main>
-    
     <footer class="footer mt-auto py-3">
-      <div class="container">
-        <span class="text-muted"><p>© Company 2017-2019</p></span>
-      </div>
+      <div class="container"> <span class="text-muted">
+          <p>© Company 2017-2019</p>
+        </span> </div>
     </footer>
-    
     <!--Bootstrap JQuery Popper-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
