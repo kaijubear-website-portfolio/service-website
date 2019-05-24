@@ -1,4 +1,8 @@
 
+html {
+  scroll-behavior: smooth;
+}
+
 .flex-equal > * {
   -ms-flex: 1;
   flex: 1;
