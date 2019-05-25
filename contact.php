@@ -32,7 +32,7 @@
       </div>
     </nav>
     <main>
-      <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+      <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
         <div class="col-md-6">
           <h4 class="mb-3">Contact Us</h4>
           <form class="needs-validation">
@@ -55,6 +55,10 @@ class="form-control" id="message" placeholder="" required="" type="text"></texta
             <hr class="mb-4"> <button class="btn btn-primary btn-lg btn-block"
 
               type="submit">Send</button> </form>
+        </div>
+        <div class="col-md-6 d-sm-none d-md-block">
+          <h4 class="mb-3">image</h4>
+          
         </div>
       </div>
     </main>
