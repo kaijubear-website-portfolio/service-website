@@ -2,6 +2,12 @@
 html {
   scroll-behavior: smooth;
 }
+.headpage{
+	background-image: url("../images/alt1.png");
+	max-width: 100%;
+	height: auto;
+	background-size: cover;
+}
 
 .flex-equal > * {
   -ms-flex: 1;
@@ -17,5 +23,5 @@ html {
 .overflow-hidden { overflow: hidden; }
 
 .bg-light{
-	background-color: white;
+	background-color: white !important;
 }
