@@ -8,6 +8,11 @@ html {
 	height: auto;
 	background-size: cover;
 }
+.p_page{
+	max-width: 100%;
+	height: auto;
+	background-size: cover;
+}
 
 .flex-equal > * {
   -ms-flex: 1;
@@ -25,3 +30,16 @@ html {
 .bg-light{
 	background-color: white !important;
 }
+
+.mapouter{
+	position:relative;
+	text-align:right;
+	height:280px;
+	width:480px;}
+.gmap_canvas {
+	overflow:hidden;
+	background:none!important;
+	height:280px;
+	width:480px;
+}
+        

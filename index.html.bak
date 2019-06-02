@@ -42,12 +42,11 @@
       <!--first row-->
       <div id="alterations" class="d-md-flex flex-md-equal flex-row-reverse w-100 my-md-3 pl-md-3">
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-black overflow-hidden">
-          <div class="md-5 p-5 mx-auto my-5">
-             <img class="img-responsive" src="/wp-content/uploads/2018/02/Clothing_Alterations.jpg" alt=""
+          <div class="md-5 p-5 mx-auto my-5"> <img class="img-responsive" src="/wp-content/uploads/2018/02/Clothing_Alterations.jpg"
 
-            srcset="https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations.jpg 480w, https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations-300x175.jpg 300w"
+              alt="" srcset="https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations.jpg 480w, https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations-300x175.jpg 300w"
 
-            sizes="(max-width: 480px) 100vw, 480px" height="280" width="480"> 
+              sizes="(max-width: 480px) 100vw, 480px" height="280" width="480">
           </div>
         </div>
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-left text-black overflow-hidden">
@@ -61,8 +60,8 @@
               and sleeves, whether it be jackets, dresses, skirts, trousers,
               shirts, or anything else you would be surprised at what we can
               achieve.</p>
-            <p class="font-weight-normal">Our standard service turn-around
-              is two days.</p>
+            <p class="font-weight-normal">Our standard service turn-around is
+              two days.</p>
             <a class="btn btn-outline-secondary" href="#">Pricing</a> <a class="btn btn-outline-secondary"
 
               href="#">Contact</a> </div>
@@ -70,13 +69,12 @@
       </div>
       <!--second row-->
       <div id="dressmaking" class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-black overflow-hidden">
-          <div class="md-5 p-5 mx-auto my-5">
-             <img class="img-responsive" src="/wp-content/uploads/2018/02/Clothing_Alterations.jpg" alt=""
+        <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-black overflow-hidden">
+          <div class="md-5 p-5 mx-auto my-5"> <img class="img-responsive" src="/wp-content/uploads/2018/02/Clothing_Alterations.jpg"
 
-            srcset="https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations.jpg 480w, https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations-300x175.jpg 300w"
+              alt="" srcset="https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations.jpg 480w, https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations-300x175.jpg 300w"
 
-            sizes="(max-width: 480px) 100vw, 480px" height="280" width="480"> 
+              sizes="(max-width: 480px) 100vw, 480px" height="280" width="480">
           </div>
         </div>
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-right text-blakc overflow-hidden">
@@ -85,19 +83,22 @@
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
-            <a class="btn btn-outline-secondary" href="#">Pricing</a>
-          	<a class="btn btn-outline-secondary" href="#">Contact</a></div>
+            <a class="btn btn-outline-secondary" href="#">Pricing</a> <a class="btn btn-outline-secondary"
+
+              href="#">Contact</a></div>
         </div>
       </div>
       <!--third row-->
       <div id="contact" class="d-md-flex flex-md-equal flex-row-reverse w-100 my-md-3 pl-md-3">
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-black overflow-hidden">
           <div class="md-5 p-5 mx-auto my-5">
-             <img class="img-responsive" src="/wp-content/uploads/2018/02/Clothing_Alterations.jpg" alt=""
+            <div class="mapouter">
+              <div class="gmap_canvas"><iframe id="gmap_canvas" src="https://maps.google.com/maps?q=kensington%20clothing%20alterations&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
 
-            srcset="https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations.jpg 480w, https://www.roses.co.nz/wp-content/uploads/2018/02/Clothing_Alterations-300x175.jpg 300w"
+                  scrolling="no" marginheight="0" marginwidth="0" height="280" frameborder="0"
 
-            sizes="(max-width: 480px) 100vw, 480px" height="280" width="480"> 
+                  width="480"></iframe></div>
+            </div>
           </div>
         </div>
         <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-left text-black overflow-hidden">
@@ -106,9 +107,9 @@
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
-            <a class="btn btn-outline-secondary" href="#">Contact</a>
-          	<a class="btn btn-outline-secondary" href="#">Map</a>
-          </div>
+            <a class="btn btn-outline-secondary" href="#">Contact</a> <a class="btn btn-outline-secondary"
+
+              href="#">Map</a> </div>
         </div>
       </div>
     </main>
