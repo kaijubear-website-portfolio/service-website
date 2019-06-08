@@ -37,7 +37,7 @@
         <div class="col-md-5 p-lg-5 mx-auto my-5">
           <h1 class="display-4 font-weight-normal">Headpage</h1>
           <p class="lead font-weight-normal">Subheadings.</p>
-          <a class="btn btn-outline-secondary" href="#">Coming soon</a> </div>
+        </div>
       </div>
       <!--first row-->
       <div id="alterations" class="d-md-flex flex-md-equal flex-row-reverse w-100 my-md-3 pl-md-3">
@@ -62,9 +62,8 @@
               achieve.</p>
             <p class="font-weight-normal">Our standard service turn-around is
               two days.</p>
-            <a class="btn btn-outline-secondary" href="#">Pricing</a> <a class="btn btn-outline-secondary"
-
-              href="#">Contact</a> </div>
+            <a class="btn btn-outline-secondary" href="pricing.html#alterations">Pricing</a>
+            <a class="btn btn-outline-secondary" href="#">Contact</a> </div>
         </div>
       </div>
       <!--second row-->
@@ -83,7 +82,7 @@
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
             <p class="font-weight-normal">Subheadings.</p>
-            <a class="btn btn-outline-secondary" href="#">Pricing</a> <a class="btn btn-outline-secondary"
+            <a class="btn btn-outline-secondary" href="pricing.html#dressmaking">Pricing</a> <a class="btn btn-outline-secondary"
 
               href="#">Contact</a></div>
         </div>
@@ -122,6 +121,5 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    
   </body>
 </html>
