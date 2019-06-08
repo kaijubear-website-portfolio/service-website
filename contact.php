@@ -14,12 +14,12 @@
   <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark"> <a class="navbar-brand"
 
-        href="#">Kensington Alterations &amp; Dressmaking</a> <button class="navbar-toggler"
+        href="index.html">Kensington Alterations &amp; Dressmaking</a> <button
 
-        type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"
+        class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
 
-        aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
-      </button>
+        aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse justify-content-md-end" id="navbar">
         <ul class="navbar-nav">
           <li class="nav-item"> <a class="nav-link" href="#alterations">Alterations</a>
@@ -58,7 +58,6 @@ class="form-control" id="message" placeholder="" required="" type="text"></texta
         </div>
         <div class="col-md-6 d-sm-none d-md-block">
           <h4 class="mb-3">image</h4>
-          
         </div>
       </div>
     </main>
@@ -71,6 +70,5 @@ class="form-control" id="message" placeholder="" required="" type="text"></texta
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    
   </body>
 </html>
