@@ -1,0 +1,50 @@
+
+html {
+  scroll-behavior: smooth;
+}
+.headimage{
+	background-image: url("../images/picture1a.jpg");
+	/*opacity: 0.5;
+	filter: alpha(opacity=50);  For IE8 and earlier */
+}
+
+.headpage{
+	max-width: 100%;
+	height: auto;
+	background-size: cover;
+}
+.p_page{
+	max-width: 100%;
+	height: auto;
+	background-size: cover;
+}
+
+.flex-equal > * {
+  -ms-flex: 1;
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+  }
+}
+
+.overflow-hidden { overflow: hidden; }
+
+.bg-light{
+	background-color: white !important;
+}
+
+.mapouter{
+	position:relative;
+	text-align:right;
+	height:280px;
+	width:480px;}
+.gmap_canvas {
+	overflow:hidden;
+	background:none!important;
+	height:280px;
+	width:480px;
+}
+        
