@@ -85,19 +85,20 @@
         </div>
         <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-left text-white overflow-hidden">
           <div class="md-5 p-5 mx-auto my-5">
-            <h1 class="display-5 font-weight-normal">Contact Us</h1>
-            <p class="font-weight-normal">A wide range of alterations can be
-              performed to make garments fit perfectly, no need to accept how
-              the clothing manufacturers think we should be shaped.</p>
-            <p class="font-weight-normal"> The most common alterations are
-              shortenings, also very common are alterations to waists and hips
-              and sleeves, whether it be jackets, dresses, skirts, trousers,
-              shirts, or anything else you would be surprised at what we can
-              achieve.</p>
-            <p class="font-weight-normal">Our standard service turn-around is
-              two days.</p>
+            <h1 cclass="display-5 font-weight-normal h" style="margin-top: -42px;">Contact
+              Us</h1>
+            
+            <p class="font-weight-normal display-5">Phone - 09 437 5088 </p>
+            <p class="font-weight-normal">Email - admin@kad.kiwi.nz</p>
+            
+            <p class="font-weight-normal">Find us on TradeMe @wealter4u</p>
+            <p class="font-weight-normal">Or stop in - 91 Kamo Rd, Kensington,
+              Whangarei</p>
+            <p class="font-weight-normal">Monday to Friday: 8.30am - 5.00pm<br>
+              Saturday &amp; Sunday: Closed</p>
             <!--<a class="btn btn-outline-secondary" href="contact.php">Contact</a>-->
-            <a class="btn btn-outline-secondary" href="https://goo.gl/maps/bMMkUeRVENhD58oPA">Map</a> </div>
+            <a class="btn btn-outline-secondary" href="https://goo.gl/maps/bMMkUeRVENhD58oPA">Map</a>
+          </div>
         </div>
       </div>
     </main>
